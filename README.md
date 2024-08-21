@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 Engineer
 - 🎸 Guitar hero
 <!--
 **Chris6six6/Chris6six6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
